@@ -1,7 +1,4 @@
 node_modules
 chave-api.txt
-senha banco de dados = DrF4zLbL8O70VYuQ/ usuario: bruninha21dev
-
-mongodb+srv://bruninha21dev:DrF4zLbL8O70VYuQ@cluster0.0zzkk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 .env
