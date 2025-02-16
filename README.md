@@ -1,0 +1,2 @@
+### Projeto feito durante a imersão de back-end da Alura. Criamos uma API que permite o upload e a atualização de imagens, vinculando cada imagem a um ID único no MongoDB. 
+### Implementamos um método HTTP PUT para atualizar registros existentes, integramos a API do Google Gemini para gerar descrições automaticamente e configuramos o projeto para ser publicado na Google Cloud, garantindo acesso público à API.
